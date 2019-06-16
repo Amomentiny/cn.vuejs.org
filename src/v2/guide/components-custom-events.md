@@ -87,8 +87,8 @@ Vue.component('base-checkbox', {
 
 ```js
 {
-  focus: function (event) { /* ... */ }
-  input: function (value) { /* ... */ },
+  focus: function (event) { /* ... */ },
+  input: function (value) { /* ... */ }
 }
 ```
 
